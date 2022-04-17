@@ -1,0 +1,12 @@
+.box-botoes {
+    margin-bottom: 15px;
+}
+
+.alinhar-botoes {
+    margin: 10px 0px;   
+}
+
+.menu {width: 100%; float: left; background-color: #111; padding: 18px 8%;}
+.menu li {float: left;}
+.menu li {color: #9d9d9d; margin-right: 25px;}
+.menu li a:hover{color: #fff;}
